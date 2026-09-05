@@ -16,11 +16,9 @@ export const cylinderConfig = {
 };
 
 export const products = [
-  { size: '2 KG', detail: 'Compact refill for everyday essentials', scale: 0.52 },
-  { size: '5 KG', detail: 'Easy to handle, made for smaller homes', scale: 0.68 },
-  { size: '11.8 KG', detail: 'The dependable household standard', scale: 0.86 },
-  { size: '15 KG', detail: 'More capacity for busy kitchens', scale: 1 },
-  { size: '45 KG', detail: 'High-volume supply for commercial use', scale: 1.24 },
+  { size: '5 KG', detail: 'Easy to handle, made for smaller homes', scale: 0.72 },
+  { size: '10 KG', detail: 'A dependable refill for everyday kitchens', scale: 0.9 },
+  { size: '12.5 KG', detail: 'More capacity for busy household use', scale: 1 },
 ] as const;
 
 export const services = [
