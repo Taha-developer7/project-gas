@@ -6,6 +6,9 @@ export const company = {
   whatsapp: '923242899822',
   email: 'alshaheryarenterprise@gmail.com',
   emailHref: 'mailto:alshaheryarenterprise@gmail.com',
+  whatsappHref: 'https://wa.me/923242899822',
+  facebookUrl: 'https://facebook.com',
+  instagramUrl: 'https://instagram.com',
   otherBusinessName: 'Electronics Business',
   otherBusinessUrl: '/electronics-business',
 };
