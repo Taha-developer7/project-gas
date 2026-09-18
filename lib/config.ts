@@ -4,6 +4,8 @@ export const company = {
   phoneDisplay: '+92 324 2899822',
   phoneHref: 'tel:+923242899822',
   whatsapp: '923242899822',
+  email: 'alshaheryarenterprise@gmail.com',
+  emailHref: 'mailto:alshaheryarenterprise@gmail.com',
   otherBusinessName: 'Electronics Business',
   otherBusinessUrl: '/electronics-business',
 };
