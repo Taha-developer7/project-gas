@@ -7,7 +7,7 @@ export const company = {
   email: 'alshaheryarenterprise@gmail.com',
   emailHref: 'mailto:alshaheryarenterprise@gmail.com',
   whatsappHref: 'https://wa.me/923242899822',
-  facebookUrl: 'https://facebook.com',
+  facebookUrl: 'https://www.facebook.com/people/Al-Shaheryar-EnterpriseLPG-Gas-Refill-services/61593880455837/',
   instagramUrl: 'https://instagram.com',
   otherBusinessName: 'Electronics Business',
   otherBusinessUrl: '/electronics-business',
