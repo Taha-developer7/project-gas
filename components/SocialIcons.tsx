@@ -25,3 +25,4 @@ export function InstagramIcon({ size = 20, className = '' }: { size?: number; cl
     </svg>
   );
 }
+
